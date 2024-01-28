@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 market = pd.read_csv("D:\Data Analyst\Project\supermarket_sales - Sheet.csv")
 
 #Check for a null value
